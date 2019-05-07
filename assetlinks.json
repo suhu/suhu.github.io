@@ -1,0 +1,18 @@
+---
+layout: none
+permalink: .well-known/assetlinks.json
+---
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"LoremMobile.AndroidApp",
+         "package_name":"LoremMobile.AndroidApp",
+         "sha256_cert_fingerprints":[
+            "F3:11:0A:CE:70:1E:EC:93:EA:61:AC:57:E4:5F:D5:A6:E3:ED:13:1F:70:FB:3D:AD:9F:DA:5D:2E:E7:6D:8A:01"
+         ]
+      }
+   }   
+]
